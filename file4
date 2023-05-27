@@ -1,0 +1,2 @@
+git pull copies changes from central repo to working stage directly it will also copies to local repo
+git fetch copies files from central repo to local repo 

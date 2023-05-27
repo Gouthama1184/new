@@ -1,0 +1,5 @@
+You’re likely in the following situation: there were changes recently made to your remote repository and you want to incorporate them into your local copy. You have a few options here; the two most common actions to get changes from your remote are Git pull and Git fetch.
+
+So, what’s the difference between Git pull vs fetch, and when should you utilize which command? We’re glad you asked.
+
+
